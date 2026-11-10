@@ -5,8 +5,8 @@
 **Student Name:** Jeremy Pharell Kamau  
 **Module Code:** ITBDA4-14  
 **Module Name:** Big Data Analytics  
-**Campus:** [Insert Campus Name Here]  
-**Student Number:** [Insert Student Number Here]  
+**Campus:** Midrand Campus  
+**Student Number:** CON-1471229-D0T3
 
 ## Project Overview
 
@@ -19,36 +19,6 @@ Question 2 builds a data frame from a collection of news files and applies Laten
 Question 3 provides a proof of concept for a web text mining API. It scrapes a Wikipedia article, cleans the text, and applies two text summarisation techniques. Two visualisations are also generated to show the most frequent terms.
 
 Question 4 demonstrates a complete ETL workflow. It scrapes unstructured data using regular expressions, cleans and imputes missing values, and loads the structured dataset into a PostgreSQL relational database for analytical querying.
-
-## Repository Structure
-
-'''text
-ITBDA4-14-Project2/
-│
-├── README.md
-├── documentation/
-│   └── ITBDA4-14 Project 2 Answers.pdf
-│
-├── datasets/
-│   ├── map_reduce_test_docs/
-│   ├── sa_news/
-│   └── cleaned_articles.csv
-│
-├── notebooks/
-│   ├── Q1_MapReduce.R
-│   ├── Q2_LDA_Topic_Modeling.R
-│   ├── Q3_Web_Scraping_Summarization.R
-│   └── Q4_ETL_PostgreSQL.R
-│
-└── images/
-    ├── q1_diagram.png
-    ├── q1_console_output.png
-    ├── q2_top_terms_bar.png
-    ├── q2_wordclouds.png
-    ├── q2_beta_heatmap.png
-    ├── q3_term_frequency_bar.png
-    └── q3_wordcloud.png
-'''
 
 ## Prerequisites
 
